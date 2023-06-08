@@ -1,0 +1,11 @@
+{
+	"title" : "Combat Hud and Loadout Restrictions"
+	"type" : "ServerContent"
+	"tags" : {"Fun", "Roleplay"}
+	"ignore" : 
+	{
+		"*.psd", 
+		"*.vcproj",
+		"*.svn*"
+	}
+}
